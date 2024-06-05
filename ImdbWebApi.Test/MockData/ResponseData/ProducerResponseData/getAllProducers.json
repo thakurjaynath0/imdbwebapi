@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mock Producer 1",
+      "dob": "2002-04-04",
+      "bio": "Sample bio for producer",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mock Producer 2",
+      "dob": "1989-07-03",
+      "bio": "Sample bio for producer",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mock Producer 3",
+      "dob": "2000-04-04",
+      "bio": "Sample bio for producer",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Mock Actor 1",
+    "dob": "2002-04-04",
+    "bio": "Sample bio for actor",
+    "gender": {
+      "id": 1,
+      "name": "Mock Gender 1"
+    }
+  }
+}

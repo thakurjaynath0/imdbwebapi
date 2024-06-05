@@ -1,0 +1,15 @@
+{
+  "name": "Mock Movie",
+  "yearOfRelease": 2002,
+  "plot": "Mock plot for the movie. It is a mock description",
+  "producerId": 1,
+  "actorIds": [
+    1,
+    2
+  ],
+  "genreIds": [
+    1,
+    2
+  ],
+  "coverImage": "Path for cover image"
+}

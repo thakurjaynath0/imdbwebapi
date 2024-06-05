@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mock Actor 1",
+      "dob": "2002-04-04",
+      "bio": "Sample bio for actor",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mock Actor 2",
+      "dob": "1992-02-04",
+      "bio": "Sample bio for actor",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mock Actor 3",
+      "dob": "2000-04-04",
+      "bio": "Sample bio for actor",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    }
+  ]
+}

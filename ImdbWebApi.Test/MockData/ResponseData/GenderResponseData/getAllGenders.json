@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mock Gender 1"
+    },
+    {
+      "id": 2,
+      "name": "Mock Gender 2"
+    }
+  ]
+}

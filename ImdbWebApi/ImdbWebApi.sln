@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImdbWebApi", "ImdbWebApi.csproj", "{11F7F18D-9DD3-4FDB-96FA-7FB9BFD7C4FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImdbWebApi.Test", "..\ImdbWebApi.Test\ImdbWebApi.Test.csproj", "{3D3D629D-0844-464C-87B8-D3AC3BAC6BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F7F18D-9DD3-4FDB-96FA-7FB9BFD7C4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F7F18D-9DD3-4FDB-96FA-7FB9BFD7C4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F7F18D-9DD3-4FDB-96FA-7FB9BFD7C4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F7F18D-9DD3-4FDB-96FA-7FB9BFD7C4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3D629D-0844-464C-87B8-D3AC3BAC6BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3D629D-0844-464C-87B8-D3AC3BAC6BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3D629D-0844-464C-87B8-D3AC3BAC6BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3D629D-0844-464C-87B8-D3AC3BAC6BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D0E7C6-E537-40E3-9C97-881AE72C6A6F}
+	EndGlobalSection
+EndGlobal

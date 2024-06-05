@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Mock Movie 1",
+    "yearOfRelease": 2002,
+    "plot": "Mock plot for the movie",
+    "producer": {
+      "id": 1,
+      "name": "Mock Producer 1",
+      "dob": "2002-04-04",
+      "bio": "Sample bio for producer",
+      "gender": {
+        "id": 1,
+        "name": "Mock Gender 1"
+      }
+    },
+    "actors": [
+      {
+        "id": 1,
+        "name": "Mock Actor 1",
+        "dob": "2002-04-04",
+        "bio": "Sample bio for actor",
+        "gender": {
+          "id": 1,
+          "name": "Mock Gender 1"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Mock Actor 2",
+        "dob": "1992-02-04",
+        "bio": "Sample bio for actor",
+        "gender": {
+          "id": 1,
+          "name": "Mock Gender 1"
+        }
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "name": "Mock Genre 1"
+      },
+      {
+        "id": 2,
+        "name": "Mock Genre 2"
+      }
+    ],
+    "coverImage": "Path for cover image"
+  }
+}
